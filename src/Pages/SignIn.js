@@ -37,10 +37,10 @@ function Home() {
                                     <div className='signInWith'>Or Sign in with</div>
                                 </div>
                                 <div className='d-flex justify-content-between'>
-                                    {/* <SocialMediaIconsReact borderColor="rgba(17,17,17,1)" borderWidth="1" borderStyle="solid" icon="googleplus" iconColor="rgba(23,22,22,1)" backgroundColor="rgba(255,255,255,1)" iconSize="2" roundness="50%" url="https://some-website.com/my-social-media-url" size="40" />
-                                    <SocialMediaIconsReact borderColor="rgba(17,17,17,1)" borderWidth="1" borderStyle="solid" icon="facebook" iconColor="rgba(23,22,22,1)" backgroundColor="rgba(255,255,255,1)" iconSize="2" roundness="50%" url="https://some-website.com/my-social-media-url" size="40" />
-                                    <SocialMediaIconsReact borderColor="rgba(17,17,17,1)" borderWidth="1" borderStyle="solid" icon="linkedin" iconColor="rgba(23,22,22,1)" backgroundColor="rgba(255,255,255,1)" iconSize="2" roundness="50%" url="https://some-website.com/my-social-media-url" size="40" />
-                                    <SocialMediaIconsReact borderColor="rgba(17,17,17,1)" borderWidth="1" borderStyle="solid" icon="twitter" iconColor="rgba(23,22,22,1)" backgroundColor="rgba(255,255,255,1)" iconSize="2" roundness="50%" url="https://some-website.com/my-social-media-url" size="40" /> */}
+                                    <img alt='scl icons' src="/images/Circle Button .png"/>
+                                    <img alt='scl icons' src="/images/Circle Button1.png"/>
+                                    <img alt='scl icons' src="/images/Circle Button2.png"/>
+                                    <img alt='scl icons' src="/images/Circle Button3.png"/>
                                 </div>
                             </Form>
                         </div>
